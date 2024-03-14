@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/hud/Mk20killicon"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

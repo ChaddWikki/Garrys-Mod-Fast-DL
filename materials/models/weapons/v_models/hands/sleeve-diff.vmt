@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\beast_camper_sleeves\sleeve_diffuse"
+	"$bumpmap" "models\beast_camper_sleeves\sleeve_normal"
+	"$phong" "1"
+	"$phongexponent" "45"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 8 6]"
+
+}
+

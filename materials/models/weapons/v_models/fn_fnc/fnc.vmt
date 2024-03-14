@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 			"models/weapons/v_models/FN_FNC/diffuse"
+	"$bumpmap" 			"models/weapons/v_models/FN_FNC/normal"
+	"$nocull"			"1"
+	"$color2"			"[0.65 0.65 0.65]"
+
+	"$phong"                      	"1"
+	"$phongboost"                 	"9"
+	"$phongfresnelranges"         	"[5 10 10]"
+	"$phongalbedotint"            	"1"
+	"$phongalbedoboost"           	"48"
+	"$phongexponenttexture" 	"models\weapons\v_models\FN_FNC\exponent"
+
+	"$envmap"                     	"env_cubemap"
+	"$envmaptint"                 	"[.01 .01 .015]"
+	"$normalmapalphaenvmapmask"   	"1"
+	
+	"$rimlight"			"1"
+	"$rimlightboost"		"3.5"
+	"$rimlightexponent"		"88"
+	"$rimmask"			"1"
+
+
+	
+}

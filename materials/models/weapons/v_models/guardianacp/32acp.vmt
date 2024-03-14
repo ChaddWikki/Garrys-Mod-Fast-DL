@@ -1,0 +1,35 @@
+// ### This basic VMT was written based on the game/sdktools/python/site-packages/templateStrings.py script ###
+"VertexLitGeneric"
+{
+	$baseTexture "models\weapons\v_models\guardianacp\32acp"
+	$bumpmap "models\weapons\v_models\guardianacp\32acpn"
+	$halflambert 1
+	
+//	"$envmap" "models/player/shared/eye-reflection-cubemap-" 
+//	"$envmapcontrast" 1
+//	"$envmaptint" "[1.0 1.0 0.5]"
+	"$normalmapalphaenvmapmask" 1
+//	"$basealphaenvmapmask" 1 
+//	"$basemapalphaphongmask" 1
+	"$phong" "1"
+	"$phongexponent" "11"
+	"$phongboost" "10"	
+	"$lightwarptexture" "models\weapons\v_models\guardianacp\goldlightwarp"
+	"$phongfresnelranges"	"[.25 .5 1]"
+	"$phongwarptexture"  "models\weapons\v_models\guardianacp\goldphongwarp"
+
+	"$rimlight" "0.5"
+	"$rimlightexponent" "2"	
+	"$rimlightboost" "0.25"
+
+	"360?$color2" "[ 0.9 0.8 0.8 ]"
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+	"Proxies"
+	{
+		"vm_invis"
+		{
+		}
+	}
+}

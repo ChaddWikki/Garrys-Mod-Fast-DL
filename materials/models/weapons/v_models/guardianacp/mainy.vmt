@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	$baseTexture "models\weapons\v_models\guardianacp\mainy"
+	$bumpmap "models\weapons\v_models\guardianacp\mainyn"
+	$halflambert 1
+	"$phong" "1"
+	"$phongexponent" "11"
+	"$phongboost" "10"	
+	"$lightwarptexture" "models\weapons\v_models\guardianacp\metallightwarp"
+	"$phongfresnelranges"	"[1 6 12]"
+	"$phongwarptexture"  "models\weapons\v_models\guardianacp\metalphongwarp"
+	"$rimlight" "0.5"
+	"$rimlightexponent" "2"	
+	"$rimlightboost" "0.25"
+
+}

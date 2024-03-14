@@ -1,0 +1,4 @@
+vertexlitgeneric
+{
+	"$basetexture"              models/weapons/v_models/arms/t_base_fingerless_glove
+}

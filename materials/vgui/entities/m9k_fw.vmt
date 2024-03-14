@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/m9k_fw"
+	"$translucent" 1
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\Tactical M3\pump"
+	"$bumpmap" "models\weapons\v_models\Tactical M3\pump_normal"
+	"$envmapmask" "models\weapons\v_models\Tactical M3\pump_ref"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.09 .09 .09]"
+}

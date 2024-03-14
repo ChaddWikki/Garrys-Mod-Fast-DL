@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\V_models\tactical M3\flashlight"
+                "$bumpmap" "models\weapons\V_models\Tactical M3\flashlight_norm"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+}
+	

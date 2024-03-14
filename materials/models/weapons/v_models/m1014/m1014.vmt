@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\weapons\v_models\m1014\m1014_d"
+	"$bumpmap"					"models\weapons\v_models\m1014\m1014_n"
+	"$PhongExponentTexture"		"models\weapons\v_models\m1014\m1014_e"
+	"$phongwarptexture"			"models\weapons\v_models\m1014\phongwarp_metal"
+	"$color2"					"[0.35 0.35 0.35]"
+	"$blendTintByBaseAlpha"		"1"
+
+	$detail						"models\weapons\v_models\m1014\M1014_si"
+	$detailscale				1
+	$detailblendfactor			1
+	$detailblendmode			5
+
+	"$envmap"					"env_cubemap"
+	"$envmapfresnel"			".5"
+	"$envmaptint"				"[ .35 .3 .3 ]"
+
+	"$phong"					"1"
+	"$phongboost"				"20"
+	"$phongfresnelranges"		"[0.32 0.72 0.99]"
+	"$phongalbedotint" 			"1"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"80"
+	"$rimlightboost"			"5"
+	"$rimmask"					"1"
+}
+//Material setup by ShadowRUN 幸運な. 
+//Do NOT edit/modify/redistribute these materials without my explicit permission.

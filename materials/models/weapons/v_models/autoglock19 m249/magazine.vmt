@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\AutoGlock19 M249\magazine"
+	"$envmapmask" "models\weapons\v_models\AutoGlock19 M249\magazine_ref"
+	"$envmap" "env_cubemap"
+}

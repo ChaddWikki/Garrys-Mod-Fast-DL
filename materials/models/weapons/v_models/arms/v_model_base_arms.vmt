@@ -1,0 +1,4 @@
+vertexlitgeneric
+{
+	"$basetexture"          models/weapons/v_models/arms/v_model_base_arms
+}

@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\weapons\v_models\Glock17\Glock17_d"
+	"$bumpmap"					"models\weapons\v_models\Glock17\Glock17_n"
+	"$phongexponenttexture"		"models\weapons\v_models\Glock17\Glock17_e"
+	"$color2"					"[0.35 0.35 0.35]"
+	"$blendTintByBaseAlpha"		"1"
+
+	"$envmap"					"env_cubemap"
+	"$envmaptint"				"[ .02 .02 .02 ]"
+
+	"$phong"					"1"
+	"$phongboost"				".4"
+	"$phongfresnelranges"		"[0.32 0.72 0.99]"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"80"	
+	"$rimlightboost"			".3"
+	"$rimmask"					"1"
+}
+//Material setup by ShadowRUN 幸運な, using various parts from Thanez' and 4Echo's materials. 
+//You are NOT allowed to edit/modify/redistribute these materials without my explicit permission.

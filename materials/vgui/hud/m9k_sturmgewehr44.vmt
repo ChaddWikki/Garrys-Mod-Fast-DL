@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/hud/m9k_sturmgewehr44"
+	"$translucent" 1
+}

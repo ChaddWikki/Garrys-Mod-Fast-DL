@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\darkeh.twinke.g36\tac_light"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\darkeh.twinke.g36\tac_light_ref"
+}

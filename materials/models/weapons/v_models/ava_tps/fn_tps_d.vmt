@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/ava_tps/FN_TPS_D"
+	"$bumpmap" "models/weapons/v_models/ava_tps/FN_TPS_N"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"40"
+	"$phongboost" "0.75"
+	"$phongfresnelranges" "[1 3 6]"
+     //	"$phongalbedotint" "1"
+}

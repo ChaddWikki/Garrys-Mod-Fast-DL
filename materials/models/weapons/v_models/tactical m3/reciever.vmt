@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\Tactical M3\reciever"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\Tactical M3\reciever_ref"
+}

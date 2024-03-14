@@ -1,0 +1,19 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models\items\snipersammo\car1"
+	"$bumpmap"    "models\items\snipersammo\car1_normal"
+	
+	$envmap						env_cubemap
+	$envmaptint					"[ .02 .02 .02 ]"
+	$normalmapalphaenvmapmask	"1"	
+	
+	$phong						1
+	$phongexponent				10
+	$phongboost					1
+	$phongfresnelranges			"[0.25 0.5 1]"
+
+	"$rimlight"					"1"
+	"$rimlightexponent"			"120"	
+	"$rimlightboost"			".05"
+	"$rimmask"					"1"
+}

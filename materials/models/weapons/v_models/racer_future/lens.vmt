@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models\weapons\v_models\racer_future\lens"
+	"$bumpmap" 	"models\weapons\v_models\racer_future\lens_normal"
+$envmap env_cubemap
+$envmapmaskscale 0.1
+$normalmapalphaenvmapmask 1
+}

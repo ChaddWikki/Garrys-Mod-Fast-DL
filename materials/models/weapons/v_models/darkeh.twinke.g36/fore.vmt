@@ -1,0 +1,6 @@
+ VertexLitGeneric 
+{ 
+   "$basetexture"   "models\weapons\v_models\darkeh.twinke.g36\fore"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models\weapons\v_models\darkeh.twinke.g36\long_fore_ref" 
+}

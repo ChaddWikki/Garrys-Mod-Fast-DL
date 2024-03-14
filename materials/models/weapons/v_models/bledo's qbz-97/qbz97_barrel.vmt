@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+"$basetexture"		     	     "models\weapons\v_models\Bledo's QBZ-97\qbz97_barrel"
+"$bumpmap" 			             "models\weapons\v_models\Bledo's QBZ-97\qbz97_barrel_normal"
+"$phongexponenttexture"		     "models\weapons\Bledo's QBZ-97\qbz97_barrel_exponent"
+	
+"$normalmapalphaenvmapmask"      "1"
+"$envmaptint"                    "[ 0.8 0.8 0.8 ]"
+
+"$phong"                         "1"
+"$phongexponent"                 "60"
+"$phongboost"                    "1"
+"$phongfresnelranges"            "[0.2 0.2 0.2]"
+"$phongtint"                     "[0.8 0.8 0.8]" 
+
+"$phongalbedotint"               "1"
+"$halflambert"                   "1"
+}

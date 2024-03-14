@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/ava_arms/EU_hand003_d"
+	"$bumpmap" "models/weapons/v_models/ava_arms/EU_hand003_b"
+	
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongboost"   "1"
+	"$phongfresnelranges"   "[0.5 6.5 3.5]"
+	"$phongexponent" "10"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "30"
+	"$rimlightboost" "0.1"
+
+	"$nocull" "1"
+}

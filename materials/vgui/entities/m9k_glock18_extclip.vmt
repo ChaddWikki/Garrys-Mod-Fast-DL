@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/m9k_glock18_extclip"
+	"$translucent" 1
+}

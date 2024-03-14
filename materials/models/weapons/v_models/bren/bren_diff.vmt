@@ -1,0 +1,15 @@
+"Vertexlitgeneric"
+{
+"$basetexture""models\weapons\v_models\bren\bren_diff"
+"$bumpmap""models\weapons\v_models\bren\bren_n"
+"$normalmapalphaenvmapmask" "1"
+"$envmaptint" "[ 0.1 0.1 0.2 ]"
+
+"$phong"     "1"
+"$phongboost"   "0.25"
+"$phongfresnelranges"   "[1 3 6]"
+                "$phongtint"                   "[0.7 0.9 1]" 
+"$phongalbedotint" "1"
+"$halflambert" "1"
+
+}

@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\pist_fiveseven\ruger"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "models\weapons\v_models\pist_fiveseven\ruger_bump"
+        "$envmaptint" "[.4 .4 .4]"
+        "$normalmapalphaenvmapmask" "1"
+}
+

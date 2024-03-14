@@ -1,0 +1,8 @@
+--[url="http://gamebanana.com/skins/148220"][img]http://gamebanana.com/skins/embeddables/148220?type=medium[/img][/url] Dragon Breath
+--[url="http://gamebanana.com/skins/142418"][img]http://gamebanana.com/skins/embeddables/142418?type=medium[/img][/url] KSG 12
+--[url="http://gamebanana.com/skins/117990"][img]http://gamebanana.com/skins/embeddables/117990?type=medium[/img][/url] Spas 12
+--[url="http://gamebanana.com/skins/32807"][img]http://gamebanana.com/skins/embeddables/32807?type=medium[/img][/url] Shorty
+--[url="http://gamebanana.com/skins/91588"][img]http://gamebanana.com/skins/embeddables/91588?type=medium[/img][/url] Silenced Spas
+--[url="http://gamebanana.com/skins/129146"][img]http://gamebanana.com/skins/embeddables/129146?type=medium[/img][/url] AVA TPS
+--[url="http://gamebanana.com/skins/135350"][img]http://gamebanana.com/skins/embeddables/135350?type=medium[/img][/url] Baikal
+--[url="http://gamebanana.com/skins/30898"][img]http://gamebanana.com/skins/embeddables/30898?type=medium[/img][/url] Tactical M3

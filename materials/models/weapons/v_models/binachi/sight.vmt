@@ -1,0 +1,28 @@
+"Unlittwotexture"
+{
+	"$baseTexture"	"models/weapons/v_models/Binachi/sight"
+	"$texture2"	"models\weapons\v_models\Binachi\scanline"
+	"$additive" 1
+	"$model" 1
+	"$nocull" 1
+
+	"Proxies"
+	{
+		"GaussianNoise"
+		{
+			"minVal" .8
+			"maxVal" 1	
+ 			"mean" .7
+			"halfwidth" .3
+			"resultVar" "$alpha"
+		}
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" .21
+			"texturescrollangle" -90
+		}
+
+	}
+}
